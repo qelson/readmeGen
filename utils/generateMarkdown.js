@@ -52,7 +52,7 @@ ${data.description}
 ${data.contributors}
 
 #### License
-${renederLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
 
 
